@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/GSManager+Transaction.h</key>
+		<data>
+		WQFvQ4gCChKqk9QCfBfa4zUe5/s=
+		</data>
+		<key>Headers/GSManager.h</key>
+		<data>
+		znJSR5JN+j6Eh/j5F49WO0365yY=
+		</data>
+		<key>Headers/GSTransaction.h</key>
+		<data>
+		LA+QGFCA1yd5Vfioi1k3wv3NiSw=
+		</data>
+		<key>Headers/GSUser.h</key>
+		<data>
+		fVNEMEbvhEJ8kNTyQuzjuB1Qv60=
+		</data>
 		<key>Headers/SimplOneClick.h</key>
 		<data>
 		ori93th4THO9Ocb+l8IXTYQz+lw=
@@ -19,6 +35,50 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/GSManager+Transaction.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WQFvQ4gCChKqk9QCfBfa4zUe5/s=
+			</data>
+			<key>hash2</key>
+			<data>
+			uGL65xGnWXik2ZGxBiuiqHVB3v3qf0c/lxX0dfUbA3Y=
+			</data>
+		</dict>
+		<key>Headers/GSManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			znJSR5JN+j6Eh/j5F49WO0365yY=
+			</data>
+			<key>hash2</key>
+			<data>
+			cvrwAZL/oB9UwKwjCgfbljiKyWyh1Ua7VpLyltrqE78=
+			</data>
+		</dict>
+		<key>Headers/GSTransaction.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LA+QGFCA1yd5Vfioi1k3wv3NiSw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Eu+fdsWBFtEX03gNiA5Naq+DqA1DHIJKGU+nwCssQ5I=
+			</data>
+		</dict>
+		<key>Headers/GSUser.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fVNEMEbvhEJ8kNTyQuzjuB1Qv60=
+			</data>
+			<key>hash2</key>
+			<data>
+			r9oyfypPpHVtA0+ASkjD/6YMcWP9GDnSuqsWaiG/iiA=
+			</data>
+		</dict>
 		<key>Headers/SimplOneClick.h</key>
 		<dict>
 			<key>hash</key>
