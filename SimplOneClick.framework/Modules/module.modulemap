@@ -1,0 +1,6 @@
+framework module SimplOneClick {
+  umbrella header "SimplOneClick.h"
+
+  export *
+  module * { export * }
+}
