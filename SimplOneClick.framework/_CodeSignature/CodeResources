@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		n7Lil+KyXi1XTG25YWQNkXaeba4=
+		</data>
 		<key>Headers/GSManager+Transaction.h</key>
 		<data>
 		WQFvQ4gCChKqk9QCfBfa4zUe5/s=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yYQrAZT8HveZhyRcCgxw6Abn96o=
+		fFOUYcXtx4GrAd4gTedLWszIzDI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
