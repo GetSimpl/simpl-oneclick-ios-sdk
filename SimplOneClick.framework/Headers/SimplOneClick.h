@@ -6,6 +6,11 @@
 //  Copyright © 2018 Simpl. All rights reserved.
 //
 
+//! Project version number for SimplOneClick.
+FOUNDATION_EXPORT double SimplOneClickVersionNumber;
+
+//! Project version string for SimplOneClick.
+FOUNDATION_EXPORT const unsigned char SimplOneClickVersionString[];
 
 #import "GSManager.h"
 #import "GSUser.h"
